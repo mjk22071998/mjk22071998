@@ -12,13 +12,6 @@ I'm an MS Computer Science graduate with a deep interest in **AI** and **Cyberse
 - **Software Development** (Mobile and Web development with Laravel, Flutter, and Unity)
 - **Research** (SDN, cloud infrastructure performance, programmable networks)
 
-## 📝 Recent Projects:
-- **3D Human Action Recognition** using skeleton points for motion tracking.
-- **Plant Disease Detection** using EfficientNet.
-- **Anomaly Detection** in IoT using LSTM and BiLSTM.
-- **DDoS Attack Detection & Mitigation** (part of my MS thesis).
-- **Real-Time Face Recognition and Dress Code Detection** (work in progress, powered by NVIDIA Jetson Nano).
-
 ## 🛠️ Technologies & Tools:
 - **Languages**: Python, Java, C++, PHP, JavaScript
 - **Frameworks**: Laravel, Flutter, Unity
@@ -31,17 +24,17 @@ I'm an MS Computer Science graduate with a deep interest in **AI** and **Cyberse
 - Programmable Networks and Services
 
 ## 🎓 Education:
-- **MS in Computer Science**, [University Name]
-- **BS in Computer Science**, [University Name]
+- **MS in Computer Science**, PMAS Arid Agriculture University
+- **BS in Computer Science**, University of Engineering and Technology, Taxila
 
 ## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
+- [LinkedIn](https://www.linkedin.com/in/mjk22071998)
+- Email: mjk22071998@gmail.com
+- Phone: +92 334 0555660
 
 ## 📚 Publications:
-- **Paper 1**: Title (Under review in Springer Nature)
-- **Paper 2**: Title (Under review)
-- **Paper 3**: Title (Published)
+- **Paper 1**: Skeleton based Human Action Recognition using a Structured-Tree Neural Network (5 citations)
+- **Paper 2**: SD-ALB: Software Defined Adaptive load balancing in Data Center Network
 
 ## 📈 GitHub Stats:
 ![mjk22071998's Stats](https://github-readme-stats.vercel.app/api?username=mjk22071998&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
