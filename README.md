@@ -39,4 +39,8 @@ I'm an MS Computer Science graduate with a deep interest in **AI** and **Cyberse
 ## 📈 GitHub Stats:
 ![mjk22071998's Stats](https://github-readme-stats.vercel.app/api?username=mjk22071998&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![mjk22071998's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mjk22071998&theme=vue-dark&hide_border=true)
+
+![mjk22071998's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mjk22071998&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 Feel free to browse through my repositories and get in touch if you're interested in collaborating or discussing tech!
