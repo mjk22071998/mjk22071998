@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Junaid Khalid 👋
 
-I'm an MS Computer Science graduate interested in **Web and Mobile app Sevelopment** and **Cybersecurity**. My research focuses on **SDN**, **network traffic analysis**, and **intrusion detection systems**. I'm passionate about learning new technologies and collaborating on open-source projects.
+I'm an MS Computer Science graduate interested in **Web and Mobile app Development** and **Cybersecurity**. My research focuses on **SDN**, **network traffic analysis**, and **intrusion detection systems**. I'm passionate about learning new technologies and collaborating on open-source projects.
 
 ## 🛠️ Technologies & Tools:
 - **Languages**: Python, Java, C++, PHP, JavaScript
