@@ -1,11 +1,11 @@
 # Hi, I'm Muhammad Junaid Khalid 👋
 
-I'm an MS Computer Science graduate interested in **Web and Mobile app Development** and **Cybersecurity**. My research focuses on **SDN**, **network traffic analysis**, and **intrusion detection systems**. I'm passionate about learning new technologies and collaborating on open-source projects.
+I'm an MS Computer Science graduate currently employed at **National Aerospace Science And Technology Park Alpha (NASTP Alpha)** as a **Software Developer**. My interests span **Web and Mobile App Development** and **Cybersecurity**, with research focusing on **SDN**, **network traffic analysis**, and **intrusion detection systems**. I'm passionate about exploring new technologies and contributing to open-source projects.
 
 ## 🛠️ Technologies & Tools:
-- **Languages**: Python, Java, C++, PHP, JavaScript
-- **Frameworks**: Laravel, Flutter, Android
-- **Tools**: MySQL, Firebase, Docker, Android Studio
+- **Languages**: Python, Java, Kotlin, C++, PHP, JavaScript, TypeScript
+- **Frameworks**: Laravel, Android, Qt, OpenGL
+- **Tools**: MySQL, Firebase, Docker, Android Studio, MongoDB
 
 ## 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mjk22071998)
